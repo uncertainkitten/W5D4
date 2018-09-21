@@ -1,0 +1,27 @@
+/* PHASE 4: Footer */
+.footer{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  background: #fff;
+  width: 900px;
+  border: 1px solid #ccc;
+  border-top: 0;
+  justify-content: space-between;
+}
+
+.footer-copyright{
+  margin: 20px;
+  font-size: 14px;
+  color: #aaa;
+}
+
+.footer-links{
+  margin: 20px;
+  font-size: 14px;
+}
+
+.footer-links a{
+  padding: 8px;
+  color: #aaa;
+}
